@@ -1,0 +1,11 @@
+[ {
+  "id" : 1,
+  "nicknames" : [ "MatronDeWinter", "Rydia" ],
+  "guilds" : [ "chumbucket & Associates" ],
+  "uuid_ID" : "cffade0f-2856-462a-abd8-52b5f141eb83"
+}, {
+  "id" : 2,
+  "nicknames" : [ "Ugodatwayigohome", "Populus" ],
+  "guilds" : [ "chumbucket & Associates", "the Darkcult", "Goobys" ],
+  "uuid_ID" : "057f2906-8172-4a9a-839b-e73c438ed1c1"
+} ]

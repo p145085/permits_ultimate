@@ -1,0 +1,39 @@
+[ {
+  "id" : 1,
+  "permit_created" : [ 2022, 3, 18 ],
+  "permit_duration" : "P1Y",
+  "permit_type" : "sheep",
+  "player" : {
+    "id" : 1,
+    "nicknames" : [ "MatronDeWinter", "Rydia" ],
+    "guilds" : [ "chumbucket & Associates" ],
+    "uuid_ID" : "cffade0f-2856-462a-abd8-52b5f141eb83"
+  },
+  "issuer" : {
+    "id" : 1,
+    "nicknames" : [ "MatronDeWinter", "Rydia" ],
+    "guilds" : [ "chumbucket & Associates" ],
+    "uuid_ID" : "cffade0f-2856-462a-abd8-52b5f141eb83"
+  },
+  "description" : "This permit allows player to shear sheep at Yew pens.",
+  "uuid_ID" : "624e6e00-223b-496d-b240-ac9885dea873"
+}, {
+  "id" : 2,
+  "permit_created" : [ 2022, 3, 18 ],
+  "permit_duration" : "P24Y",
+  "permit_type" : "Farming",
+  "player" : {
+    "id" : 2,
+    "nicknames" : [ "Ugodatwayigohome", "Populus" ],
+    "guilds" : [ "chumbucket & Associates", "the Darkcult", "Goobys" ],
+    "uuid_ID" : "057f2906-8172-4a9a-839b-e73c438ed1c1"
+  },
+  "issuer" : {
+    "id" : 2,
+    "nicknames" : [ "Ugodatwayigohome", "Populus" ],
+    "guilds" : [ "chumbucket & Associates", "the Darkcult", "Goobys" ],
+    "uuid_ID" : "057f2906-8172-4a9a-839b-e73c438ed1c1"
+  },
+  "description" : "This permit allows player to kill and harvest harpies in Covetous level one.",
+  "uuid_ID" : "65a08a46-7436-485b-9c06-138eb4454e9f"
+} ]
